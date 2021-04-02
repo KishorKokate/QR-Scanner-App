@@ -12,6 +12,9 @@ implementation 'androidmads.library.qrgenearator:QRGenearator:1.0.4'
 ### Permission:
 Add This Permission for saving your generated code
 ```xml
+<uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.FLASHLIGHT" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
 ### How to use this Library:
