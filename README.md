@@ -1,6 +1,7 @@
 # QR-Scanner-App[JAVA]
 It will generate QR code for given data .Scanning QR code and generate data . 
- for App View![Click here]{https://github.com/KishorKokate/QR-Scanner-App/blob/master/app/src/main/res/drawable-v24/QRApp.jpeg?raw=true}
+***
+![Click here](https://github.com/KishorKokate/QR-Scanner-App/blob/master/app/src/main/res/drawable-v24/QRApp.jpeg?raw=true)
 
 ### Gradle:
 ```xml
