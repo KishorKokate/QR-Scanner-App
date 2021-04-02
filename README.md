@@ -38,3 +38,6 @@ QRGSaver qrgSaver = new QRGSaver();
 qrgSaver.save(savePath, edtValue.getText().toString().trim(), bitmap, QRGContents.ImageType.IMAGE_JPEG);
 ```
 For more Details [Click Here](https://github.com/KishorKokate/QR-Scanner-App/blob/master/app/src/main/java/com/example/qrscanner/QRGenerator.java)
+***
+### Scanner View
+![scanner view](https://github.com/KishorKokate/QR-Scanner-App/blob/master/app/src/main/res/drawable/scanner.jpeg?raw=true)
