@@ -44,3 +44,7 @@ For more Details [Click Here](https://github.com/KishorKokate/QR-Scanner-App/blo
 ***
 ### Scanner View
 ![scanner view](https://github.com/KishorKokate/QR-Scanner-App/blob/master/app/src/main/res/drawable/scanner.jpeg?raw=true)
+
+***
+For more content like these Follow:
+[@KishorKokate](https://github.com/KishorKokate)
